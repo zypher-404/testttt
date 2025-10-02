@@ -8,4 +8,5 @@
 	
 	// Подключаем основу страницы
     require_once 'public/pages/index.php';
+
 ?>
